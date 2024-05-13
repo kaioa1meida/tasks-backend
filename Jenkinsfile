@@ -21,11 +21,6 @@ pipeline {
                 }
             }
         }
-        stage () {
-            steps {
-                
-            }
-        }
     }
 }
 
